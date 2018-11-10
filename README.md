@@ -6,9 +6,4 @@
 - Simple Service 1/2
 - Common Lib
 
-Log 처리
-- Log4j
-- Logstash
-- Elastic Search
-- Kibana
-- Hystrix
+모니터링
