@@ -3,7 +3,5 @@
 - Eureka
 - Zuul
 - Rabbit Message
-- Simple Service 1/2
-- Common Lib
 
 모니터링
