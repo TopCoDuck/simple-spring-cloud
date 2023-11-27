@@ -5,7 +5,7 @@
 - Rabbit Message
 
 실행순서
- config
- eureka-server
- gateway
- 나머지 service
+- config
+- eureka-server
+- gateway
+- 나머지 service
