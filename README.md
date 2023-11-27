@@ -4,4 +4,8 @@
 - Zuul
 - Rabbit Message
 
-모니터링
+실행순서
+ config
+ eureka-server
+ gateway
+ 나머지 service
